@@ -1,0 +1,33 @@
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\bin\Debug\net7.0\appsettings.json
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\bin\Debug\net7.0\Weather Forecast.exe
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\bin\Debug\net7.0\Weather Forecast.deps.json
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\bin\Debug\net7.0\Weather Forecast.runtimeconfig.json
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\bin\Debug\net7.0\Weather Forecast.dll
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\bin\Debug\net7.0\Weather Forecast.pdb
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\Weather Forecast.csproj.AssemblyReference.cache
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\Weather Forecast.GeneratedMSBuildEditorConfig.editorconfig
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\Weather Forecast.AssemblyInfoInputs.cache
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\Weather Forecast.AssemblyInfo.cs
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\Weather Forecast.csproj.CoreCompileInputs.cache
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\Weather Forecast.MvcApplicationPartsAssemblyInfo.cs
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\Weather Forecast.MvcApplicationPartsAssemblyInfo.cache
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.Weather Forecast.Microsoft.AspNetCore.StaticWebAssets.props
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.Weather Forecast.props
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Weather Forecast.props
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Weather Forecast.props
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\Weather Forecast.styles.css
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\Weather Forecast.csproj.CopyComplete
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\Weather Forecast.dll
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\refint\Weather Forecast.dll
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\Weather Forecast.pdb
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\Weather Forecast.genruntimeconfig.cache
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\WebApplication1\obj\Debug\net7.0\ref\Weather Forecast.dll

@@ -1,0 +1,13 @@
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\bin\Debug\Weather Forecast.deps.json
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\bin\Debug\Weather Forecast.runtimeconfig.json
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\bin\Debug\appsettings.Development.json
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\bin\Debug\appsettings.json
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\bin\Debug\Weather Forecast.exe
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\bin\Debug\Weather Forecast.dll
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\bin\Debug\Weather Forecast.pdb
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\bala\Devops KodeKloud\Devops assessment\CI pipeline for .netcore\CI-Pipeline-for-.NET-Core-\CI-Pipeline-Webapp\obj\Debug\docker-compose.dcproj.CopyComplete
